@@ -1,44 +1,29 @@
 # Hi there, I'm Tran Ngoc Tu 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in software development, open-source contributions, and learning new technologies. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate developer specializing in mobile development, but I also have experience in backend and web development. Here's a bit about me:
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technology or Skill]
-- 👯 I’m looking to collaborate on [Project or Open Source Initiative]
-- 🤔 I’m looking for help with [Specific Topic]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Something Interesting About You]
+- 🔭 I’m currently working at ARENA.
+- 🎓 I graduated from FPT Polytechnic.
+- 🌱 I’m always learning and exploring new technologies.
+- 💬 Ask me about mobile development, backend, and web development.
+- 📫 How to reach me: [tranngoctu512004@gmail.com](mailto:tranngoctu512004@gmail.com)
 
 ## 🛠️ Skills
 
-- **Languages**: [List of Programming Languages]
-- **Frameworks**: [List of Frameworks]
-- **Tools**: [List of Tools and Technologies]
-- **Other**: [Other Skills or Technologies]
+- **Languages**: JavaScript, TypeScript, Kotlin, Java
+- **Frameworks**: React Native, React.js, NestJS, Node.js, Express.js
+- **Databases**: MongoDB, PostgreSQL
 
 ## 📈 GitHub Stats
 
 ![Tran Ngoc Tu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranngoctu512004&show_icons=true&theme=radical)
 
-## 🏆 Achievements
-
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
-
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Facebook](https://www.facebook.com/tranngoctu05/)
+- [Email](mailto:tranngoctu512004@gmail.com)
 
 ---
 
